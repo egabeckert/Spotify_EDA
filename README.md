@@ -43,9 +43,9 @@ pandas, numpy, matplotlib, seaborn, Jupyter
 
 ## How to Run
 ```bash
-git clone https://github.com/egabeckert/spotify_EDA.git
-cd spotify_EDA
+git clone https://github.com/egabeckert/Spotify_EDA.git
+cd Spotify_EDA
 pip install pandas numpy matplotlib seaborn jupyter
-jupyter notebook Beckert_Elliot_EDA.ipynb
+jupyter notebook egab_Spotify_EDA.ipynb
 ```
 The data loads directly from the TidyTuesday URL, so no local download is needed.
